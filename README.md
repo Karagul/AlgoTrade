@@ -1,13 +1,9 @@
-ALGORITHMIC TRADING
+QUANT ALGO TRADING
 ====================================
-FOCUS: EQUITY; FX (DIGITAL CCY)
+A machine learning data analytics and back-testing platform
 ------------------------------------
-**Authors:** Just a few disruptive PhD students
+**Markets: Equity, BitCoin**
 
 **Key Words:** Alpha Generation, Anomaly Detection, High Frequency Trading, Genetic Algorithms, Machine Learning
 
-This project will see major development in the trading and deployment of algorithmic strategies with the ability to trade any product. Systematic risk management together with cutting edge trading strategies will be developed where we hope to see this as one of the most advanced platforms available.
-
-The focus for this project will eventually be in developing digital currency strategies.
-
-[This file will be updated as the project matures]
+This platform is being designed to analyse **Big Data**. The main aim of the project is to create and analyse quantitative trading strategies using machine learning.
