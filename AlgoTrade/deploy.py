@@ -22,7 +22,6 @@ from AlgoTrade import AlgoTrade as TRADE #OUR LIBRARY
 from yahoo_finance import Share
 import json
 
-
 if __name__ == "__main__":
 	#USER INPUT
 	ASSET = raw_input("Enter the ticker of choice (GOOG = Google): ") 
