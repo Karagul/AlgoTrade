@@ -1,0 +1,4 @@
+CITATIONS
+====================
+Title: Algorithmic Backtesting
+-------------------------------- 
